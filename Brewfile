@@ -34,10 +34,10 @@ brew 'node'
 brew 'yarn'
 
 # Apps
-cask "iterm2"
+cask 'iterm2'
 cask '1password'
 cask '1password-cli'
-cask "brave-browser"
+cask 'brave-browser'
 cask 'dbeaver-community'
 cask 'discord'
 cask 'whatsapp'
@@ -52,18 +52,23 @@ cask 'imageoptim'
 cask 'slack'
 cask 'the-unarchiver'
 cask 'tinkerwell'
-cask "nordvpn"
+cask 'nordvpn'
 cask 'visual-studio-code'
 cask 'zoom'
 cask 'jetbrains-toolbox'
 cask 'microsoft-teams'
 cask 'obsidian'
 cask 'Spotify'
-cask "macfuse"
+cask 'macfuse'
+cask 'firefox'
+cask 'disk-inventory-x'
+cask 'figma'
+cask 'handbrake'
 
 
 # Fonts
 cask 'font-lato'
+cask 'font-fira-code'
 cask 'font-open-sans'
 cask 'font-roboto'
 cask 'font-source-code-pro'
